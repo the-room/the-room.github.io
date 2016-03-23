@@ -1,0 +1,31 @@
+body{
+	font-family: 'Open Sans', sans-serif;
+
+}
+
+.ui.message.bigpadding {
+	padding: 40px !important;
+	background: #e6e6e6 !important; 
+}
+
+.ui.message {
+	background: #e6e6e6 !important; 
+}
+
+.ui.vertical.menu{
+	width: 100%;
+	display: none;
+}
+
+.greyfontsmall { 
+	font-size:small !important;
+	color:rgba(0,0,0,0.6) !important;
+}
+
+.greyfont { 
+	color:rgba(0,0,0,0.6) !important;
+}
+
+i:hover.facebook{background-color:#3b5998}
+i:hover.instagram{background-color:#996633}
+i:hover.twitter{background-color:#00b8e6}

@@ -3,6 +3,14 @@ body{
 
 }
 
+.card-custom {
+    background-color: #e6e6e6 !important;
+}
+
+.card-header-color {
+   background-color: #e6e6e6 !important;
+}
+
 .ui.message.bigpadding {
 	padding: 40px !important;
 	background: #e6e6e6 !important; 
